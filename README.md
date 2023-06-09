@@ -4,8 +4,8 @@
 This project is about  Performance Testing on Jmeter
 
 ## Technology Used
-..Jmeter
-..Vs Code
+Jmeter,
+Vs Code
 
 ## Pre Requisite
 Jmeter
